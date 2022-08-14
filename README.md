@@ -57,4 +57,4 @@ https://gist.github.com/aali9/6c6289fd08c5a7737c4d0cc4d76d987c
 ## Author
 
 Anfal Ali
-[GitHub](https://github.com/aali9)
+GitHub: https://github.com/aali9
